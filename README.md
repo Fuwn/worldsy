@@ -28,5 +28,8 @@ To build an executable, execute `build.bat`.
 
 Note that this is only tested on Windows 10, there is no guarantee that this will work on other operating systems but be my guest in trying.
 
+## Notice
+All rights go to Worlds.com for the images with the [/assets](./assets) directory.
+
 ### License
 [MIT](./LICENSE)
