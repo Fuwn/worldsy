@@ -17,7 +17,7 @@ B64_ICO = 'AAABAAEAICD/AAAAAACoCAAAFgAAACgAAAAgAAAAQAAAAAEACAAAAAAAAAAAAAAAAAAAA
 
 ### Classes ###
 class Worldsy(tkinter.Tk):
-  VERSION: str = "1.0.0"
+  VERSION: str = "1.0.1"
 
   def __init__(self, master=None) -> None:
     # Initialize Tkinter
