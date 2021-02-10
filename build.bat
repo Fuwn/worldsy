@@ -1,1 +1,1 @@
-pyinstaller worldsy.py --onefile --icon=worldsy.ico --noconsole
+pyinstaller worldsy.py --onefile --icon=assets/worldsy.ico --noconsole
