@@ -37,7 +37,7 @@ Note that this is only tested on Windows 10, there is no guarantee that this wil
 
 ## Roadmap
 - [Worldsy](https://github.com/fuwn/worldsy/projects/1)
-- [Worldsy (Rust Re-write)](https://github.com/fuwn/worldsy/projects/2)
+- ~~Worldsy (Rust Re-write)~~
 
 ## Notice
 All rights go to Worlds.com for the images with the [/assets](./assets) directory.
